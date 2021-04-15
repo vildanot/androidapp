@@ -8,10 +8,10 @@
 Programın ana ekranında uygulamada mevcut olan içerikler listelenir.
 Menü kısmından programa kayıt yapılır.
 
-* Programa Giriş Yapıldıktan Sonra Sol Taraftaki Menü Butonları Değiştirilir.Ve Kullanıcının Yetkisi Dahilinde Sayfalara Giriş Yapılmasını Sağlar *
+* Programa giriş yapıldıktan sonra menü butonları değiştirilir ve kullanıcının yetkisi ile orantılı olarak ilgili sayfalara giriş yapılması sağlanır 
 
 
-* Kullanıcıların yetkisine bağlı olarak içerikler üzerinde güncelleme yapılabilir. Kullanıcıların yetkilerine göre temelde profil düzenleme olmak üzere içerikler üzerinde çeşitli işlem hakları tanır. *
+* Kullanıcıların yetkisine bağlı olarak içerikler üzerinde güncelleme yapılabilir. Kullanıcıların yetkilerine göre temelde profil düzenleme olmak üzere içerikler üzerinde çeşitli işlem hakları tanır. 
 
 
 
